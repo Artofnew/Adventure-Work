@@ -1,5 +1,16 @@
 ADVENTURE WORKS CYCLES
+Data Connection:
+
+Connect Power BI to the Adventure Works Cycles database or import relevant data. Power BI supports various data sources.
+Data Modeling:
+
+Design a data model by creating relationships between tables. In Adventure Works, you might have tables for products, customers, sales, etc.
+Define measures to calculate revenue. For example, you might create a measure for total sales, average sales per customer, or sales growth.
+Visualizations:
+
+Build visualizations to represent the data. Common visuals for revenue insights include line charts, bar charts, and tables.
 REVENUE DETAILS
+
 Here's some information about Adventure Works revenue: 
 •	Revenue by Customer Age: From 2015 to June 2017, Age between 51-60 the highest revenue at 39.73%. The Annual Income, 10k-60k had the highest total Revenue at 53%
 •	Mostly Revenue Which have United State 7.94M
