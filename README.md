@@ -42,7 +42,7 @@ Here's some information about Adventure Works revenue:
 •	Revenue by Customer Age: From 2015 to June 2017, Age between 51-60 the highest revenue at 39.73%. The Annual Income, 
 10k-60k had the highest total Revenue at 53%
 •	Mostly Revenue Which have United State 7.94M
-•	 Customer education category generated the revenue 8.4 Million. 
+•	 Customer education category Bachelors generated the revenue 8.4 Million. 
 ![1 Rev](https://github.com/Artofnew/Adventure-Work/assets/139541578/d1f538d9-a18f-46eb-81db-65695d5eba31)
 
 
