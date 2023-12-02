@@ -52,7 +52,7 @@ ORDER/SALES DETAILS
 ![2 Sales](https://github.com/Artofnew/Adventure-Work/assets/139541578/8c9822ad-077d-4a87-90ea-b2993712e028)
 
 CUSTOMER DETAILS
-Maximum sale of product price (1-800) 81.66%
+Maximum sale of product price Category is (1-800) rate 81.66%
 Maximum Style no of 0 product order 59.93% which have 0 size % of 89.71.
 Highest order from United state
 ![3 Customer](https://github.com/Artofnew/Adventure-Work/assets/139541578/6ed9e24c-db49-4097-a002-15621f8f71e0)
