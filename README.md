@@ -10,7 +10,12 @@ Design a data model by creating relationships between tables. In Adventure Works
 customers, sales, etc.Define measures to calculate revenue. For example, you might create a measure for total sales, 
 average sales per customer, or sales growth.
 
-3 Visualizations:
+3 Create Measures:
+
+Define measures to calculate revenue. For example, you might create a measure for total sales, average sales per customer, or sales growth.
+
+
+4 Visualizations:
 
 Revenue Report Visuales - Build visualizations to represent the data. Common visuals for revenue insights include Donut charts, Pie charts, tables , Stacked Column Chart , Bar chart  and Treemap.
 
@@ -22,11 +27,13 @@ Product Report Visuals - Build visualizations to represent Product data. Common 
 
 Return Report Visuals - Build visualizations to represent Return data. Common visuals for Return insights include,Donut charts, Pie charts, Stacked column charts.
 
+Time Intelligence:
+
+Use time intelligence functions in Power BI if your data includes time-based information. This allows you to analyze revenue trends over time.
 
 
 
 
-Customer Report Visuals - Donut chat,pie chrt 
 
 
 REVENUE DETAILS
