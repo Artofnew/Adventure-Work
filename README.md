@@ -1,22 +1,39 @@
 ADVENTURE WORKS CYCLES
 
-Data Connection:
+1 Data Connection:
 
 Connect Power BI to the Adventure Works Cycles database or import relevant data. Power BI supports various data sources.
 
-Data Modeling:
+2 Data Modeling:
 
-Design a data model by creating relationships between tables. In Adventure Works, you might have tables for products, customers, sales, etc.
-Define measures to calculate revenue. For example, you might create a measure for total sales, average sales per customer, or sales growth.
+Design a data model by creating relationships between tables. In Adventure Works, you might have tables for products,
+customers, sales, etc.Define measures to calculate revenue. For example, you might create a measure for total sales, 
+average sales per customer, or sales growth.
 
-Visualizations:
+3 Visualizations:
 
-Build visualizations to represent the data. Common visuals for revenue insights include line charts, bar charts, and tables.
+Revenue Report Visuales - Build visualizations to represent the data. Common visuals for revenue insights include Donut charts, Pie charts, tables , Stacked Column Chart , Bar chart  and Treemap.
+
+Sales Report Visuals - Build visualizations to represent the data. Common visuals for Sales insights include, cards using to show for Selected dates and sliding date filter, tables and line and clustered column chart.
+
+Customers Report Visuals - Build visualizations to represent Customer data. Common visuals for Customer insights include,Donut charts, Pie charts, Stacked column and bar chart and 100% Stacked bar charts
+
+Product Report Visuals - Build visualizations to represent Product data. Common visuals for Product insights include, bar chart ,Donut charts, Pie charts, Stacked column charts.
+
+Return Report Visuals - Build visualizations to represent Return data. Common visuals for Return insights include,Donut charts, Pie charts, Stacked column charts.
+
+
+
+
+
+Customer Report Visuals - Donut chat,pie chrt 
+
 
 REVENUE DETAILS
 
 Here's some information about Adventure Works revenue: 
-•	Revenue by Customer Age: From 2015 to June 2017, Age between 51-60 the highest revenue at 39.73%. The Annual Income, 10k-60k had the highest total Revenue at 53%
+•	Revenue by Customer Age: From 2015 to June 2017, Age between 51-60 the highest revenue at 39.73%. The Annual Income, 
+10k-60k had the highest total Revenue at 53%
 •	Mostly Revenue Which have United State 7.94M
 •	 Customer education category generated the revenue 8.4 Million. 
 ![1 Rev](https://github.com/Artofnew/Adventure-Work/assets/139541578/d1f538d9-a18f-46eb-81db-65695d5eba31)
