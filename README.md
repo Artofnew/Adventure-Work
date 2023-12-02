@@ -56,7 +56,7 @@ Revenue Analysis
    
 1.	The majority of customers, accounting for 69.16%, are in the rental category. This suggests that a significant portion of the customer base prefers renting rather than purchasing.
    
-2.	The largest portion of customers, at 63.57%, falls within the annual income range of 10k-60k. This indicates that a substantial percentage of customers have an annual income within this bracket.
+2.	The largest portion of customers, at 63.57%, the annual income range of 10k-60k. This indicates that a substantial percentage of customers have an annual income within this bracket.
    ![3 Customer](https://github.com/Artofnew/Adventure-Work/assets/139541578/56c3a622-fd01-4b7d-a358-c58ce2f7f427)
 
    Products Analysis
